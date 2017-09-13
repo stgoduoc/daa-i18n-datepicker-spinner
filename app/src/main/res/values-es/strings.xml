@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internacionalización</string>
+    <string name="saludo">Hola Mundo</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="direccion">Dirección</string>
+    <string name="comuna">Comuna</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="nacimiento">Fecha de Nacimiento</string>
+    <string name="registrar">Registrar</string>
+</resources>

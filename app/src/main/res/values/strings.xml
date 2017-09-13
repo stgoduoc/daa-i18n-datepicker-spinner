@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">I18N</string>
+    <string name="saludo">Hello World</string>
+    <string name="nombre">Name</string>
+    <string name="correo">Email</string>
+    <string name="direccion">Address</string>
+    <string name="comuna">Commune</string>
+    <string name="contrasena">Password</string>
+    <string name="nacimiento">Birthday</string>
+    <string name="registrar">Register</string>
+</resources>
